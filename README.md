@@ -68,8 +68,8 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-## OpenCV for computer vision capabilities.
-## pyzbar for barcode decoding.
+ OpenCV for computer vision capabilities.
+ pyzbar for barcode decoding.
 **SQLite for lightweight database storage.
 openpyxl for Excel file handling.**
 Feel free to customize the repository URL and license information as needed!
